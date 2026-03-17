@@ -38,7 +38,7 @@ export DAWG_API_KEY="your-api-key"
 
 | Пример | Описание | Автор |
 |--------|----------|-------|
-| — | — | — |
+| [ozon](examples/marketplaces/ozon) | Набор скриптов для сбора данных с Ozon через облачные браузеры | [@matthew8913](https://github.com/matthew8913) |
 
 ### Объявления и маркетплейсы
 
